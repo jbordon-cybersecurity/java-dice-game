@@ -6,8 +6,6 @@ The game runs for 5 rounds, starting with £3 credit, and includes the option to
 
 At the end of the game, a **summary report** is displayed with all bets placed, results, credits, and dice rolls.  
 
----
-
 ## 🚀 Features
 - Graphical interface using **JOptionPane**
 - Age validation (players under 18 cannot play)
@@ -22,15 +20,17 @@ At the end of the game, a **summary report** is displayed with all bets placed, 
   - Credits remaining  
   - Result (Win/Loss)  
   - Computer’s dice roll  
-- Final summary at the end of the game  
-
----
+- Final summary at the end of the game 
 
 ## 📦 Requirements
 - Java 17 (JDK)  
 - No external libraries required (uses `javax.swing` and `java.util`)  
 
----
+## ▶️ Run Without Compiling
+Download the latest `DiceGame.jar` from the [Releases](../../releases) page and run:
+
+```bash
+java -jar DiceGame.jar
 
 ## ▶️ How to Run
 
@@ -39,8 +39,6 @@ From the project root, compile and run:
 ```bash
 javac -d bin src/*.java
 java -cp bin MainGame
-
----
 
 📂 Project Structure
 CourseWork_DiceGame/
@@ -53,7 +51,6 @@ CourseWork_DiceGame/
 │── .gitignore
 │── README.md
 
----
 
 📜 License
 
