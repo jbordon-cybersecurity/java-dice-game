@@ -60,18 +60,6 @@ If your files use a package declaration (e.g. package coursework;), then use:
 javac -d bin src/coursework/*.java
 java -cp bin coursework.MainGame
 
-## 📂 Project Structure
-
-CourseWork_DiceGame/
-│── src/
-│ ├── MainGame.java # Entry point
-│ ├── Game.java # Game logic & GUI
-│ ├── BetPlay.java # Represents a single bet
-│ └── BetStatistics.java # Tracks bets & builds summary
-│── bin/ # Compiled .class files (ignored in GitHub)
-│── .gitignore
-│── README.md
-
 📜 License
 
 This repository is public for viewing only.
