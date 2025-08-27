@@ -60,8 +60,7 @@ If your files use a package declaration (e.g. package coursework;), then use:
 javac -d bin src/coursework/*.java
 java -cp bin coursework.MainGame
 
-📂 Project Structure
-
+## 📂 Project Structure
 CourseWork_DiceGame/
 │── src/
 │ ├── MainGame.java # Entry point
