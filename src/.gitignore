@@ -1,0 +1,11 @@
+# Ignore compiled class files
+bin/
+*.class
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# VS Code settings (optional)
+.vscode/
