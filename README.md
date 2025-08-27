@@ -61,6 +61,7 @@ javac -d bin src/coursework/*.java
 java -cp bin coursework.MainGame
 
 ## 📂 Project Structure
+
 CourseWork_DiceGame/
 │── src/
 │ ├── MainGame.java # Entry point
