@@ -8,33 +8,33 @@ At the end of the game, a summary report is displayed with all bets placed, resu
 
 ### Features
 
-Graphical interface using JOptionPane
+- Graphical interface using JOptionPane
 
-Age validation (players under 18 cannot play)
+- Age validation (players under 18 cannot play)
 
-Betting system:
+- Betting system:
 
-Under Seven → win if dice roll < 7
+- Under Seven → win if dice roll < 7
 
-Exactly Seven → win if dice roll = 7 (higher payout)
+- Exactly Seven → win if dice roll = 7 (higher payout)
 
-Over Seven → win if dice roll > 7
+- Over Seven → win if dice roll > 7
 
-Option to double your bet
+- Option to double your bet
 
 Player statistics tracked for each round:
 
-Round number
+- Round number
 
-Option chosen
+- Option chosen
 
-Credits remaining
+- Credits remaining
 
-Result (Win/Loss)
+- Result (Win/Loss)
 
-Computer’s dice roll
+- Computer’s dice roll
 
-Final summary at the end of the game
+- Final summary at the end of the game
 
 ### Requirements
 
